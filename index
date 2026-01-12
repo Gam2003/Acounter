@@ -1,0 +1,13 @@
+<h1>ระบบนับจำนวน 96 ช่อง (Auto Save)</h1>
+
+    <div class="controls">
+        <div class="total-display">
+            ยอดรวมทั้งหมด: <span id="grand-total">0</span> ครั้ง
+        </div>
+        <button class="reset-btn" id="reset-btn">รีเซ็ตข้อมูลใหม่ (ล้างค่า)</button>
+    </div>
+
+    <div class="grid-wrapper">
+        <div id="counter-grid">
+            </div>
+    </div>
